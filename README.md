@@ -15,8 +15,8 @@ MIT
 
 ### Availability
 
-[Chrome](javascript:alert('coming soon')) *(coming soon)*  
-[Chrome Extension](javascript:alert('coming soon')) *(coming soon)*  
+[Chrome](#) *(coming soon)*  
+[Chrome Extension](#) *(coming soon)*  
 [Android](https://sourceforge.net/projects/randomizr/files/Randomizer-android.apk/download) *(deprecated)*
 
 ### Free Software, Hell Yeah!
