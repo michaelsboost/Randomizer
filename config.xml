@@ -53,10 +53,8 @@
   <preference name="ios-statusbarstyle" value="black-opaque"/>
 
   <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
-  <gap:plugin name="cordova-plugin-network-information" source="npm"/>
 
   <access origin="*"/>
-  <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
 
   <preference name="phonegap-version" value="cli-7.0.1" />
   <preference name="android-minSdkVersion" value="14" />
@@ -64,8 +62,4 @@
 
   <allow-intent href="http://*/*"/>
   <allow-intent href="https://*/*"/>
-  <allow-intent href="tel:*"/>
-  <allow-intent href="sms:*"/>
-  <allow-intent href="mailto:*"/>
-  <allow-intent href="geo:*"/>
 </widget>
