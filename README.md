@@ -1,6 +1,8 @@
 # Randomizer
 Easily randomize a list of text
 
+![](https://raw.githubusercontent.com/michaelsboost/Randomizer/gh-pages/screenshot.png)
+
 ### Version
 0.1
 
