@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  padding-top: .5em;
+  height: 100%;
+}
+
+.block {
+  display: block;
+  width: 100%!important;
+}
+
+.form__input {
+  height: calc(100vh - 100px - 2em);
+}
